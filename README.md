@@ -1,5 +1,12 @@
 # Smart Home Overview Card
 
+## Neutral mobile preview
+
+![Neutral mobile preview of smart-home-overview-card](docs/preview.png)
+
+> Rendered at 390 px mobile width with fictional Home Assistant entities and values. No private dashboard, person, address, camera, or sensor data is included.
+
+
 Én stor, opinioneret forside til Home Assistant: klokke/vejr-hero, en roterende alarm-ticker, fire nøgletal-fliser (husforbrug, elbil, elpris, pool), fire systemfliser (kæledyr, sikkerhed, varme, indstillinger), et live kamera-grid, en familie/tilstedeværelses-grid og en elpris-graf med dag/i morgen/uge-faner — alt sammen i ét kort.
 
 Layoutet er fast (det er kortets design), men **alt indhold er konfigurerbart**: hvilke entiteter der bruges, hvilke alarmer der vises, hvilke personer der indgår, hvilke kameraer der roterer igennem, og hvor hver flise navigerer hen. Har en fuld visuel editor (felter + JSON), så det kan sættes op uden at skrive YAML i hånden.
