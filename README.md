@@ -1,5 +1,8 @@
 # Smart Home Overview Card
 
+> [!IMPORTANT]
+> Development has moved to [MRDonnii/ha-smart-home-cards](https://github.com/MRDonnii/ha-smart-home-cards). This repository is retained for existing installations, releases, and history and is no longer developed independently. New users should use the canonical collection.
+
 ## Neutral mobile preview
 
 ![Neutral mobile preview of smart-home-overview-card](docs/preview.png)
